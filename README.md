@@ -132,6 +132,7 @@ Lastly, potential data collection biases, such as underreporting of symptoms or 
 | `derm_sql_dataset` | Raw dataset |
 | `exploratory_queries.sql` | SQL scripts used for insights |
 | `README.md` | This documentation file |
+| `BI Dashboard.png` | PowerBI Dashboard |
 
 ---
 
